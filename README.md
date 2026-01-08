@@ -4,7 +4,6 @@
 
 ---
 
-<!-- PROFILE VIEWS + LINKS -->
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=khushiiii-error404&label=profile%20views&color=8fd19e&style=flat" />
 
@@ -12,9 +11,10 @@
     <img src="https://img.shields.io/badge/github-1b2a24?style=flat&logo=github&logoColor=f5c542" />
   </a>
 
-  <a href="https://www.linkedin.com/in/khushi-bhureE">
-    <img src="https://img.shields.io/badge/linkedin-1b2a24?style=flat&logo=linkedin&logoColor=c792ea" />
-  </a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <img src="https://img.shields.io/badge/linkedin-1b2a24?style=flat&logo=linkedin&logoColor=c792ea" />
+</a>
+
 </div>
 
 ---
