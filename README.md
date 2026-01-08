@@ -11,9 +11,10 @@
     <img src="https://img.shields.io/badge/github-1b2a24?style=flat&logo=github&logoColor=f5c542" />
   </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-  <img src="https://img.shields.io/badge/linkedin-1b2a24?style=flat&logo=linkedin&logoColor=c792ea" />
+<a href="https://www.instagram.com/khushiibhure">
+  <img src="https://img.shields.io/badge/LinkedIn-1b2a24?style=flat&logo=linkedin&logoColor=0A66C2" />
 </a>
+
 
 </div>
 
