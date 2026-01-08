@@ -44,21 +44,26 @@ LEARN | TRY | REPEAT <3
 ---
 
 ## <img src="stats.png" height="22" style="vertical-align: middle; margin-right:8px;" /> Stats & Languages Used
-
 <div align="center">
   <img
     src="https://github-readme-stats-pi-nine-99.vercel.app/api?username=khushiiii-error404&show_icons=true&title_color=f5c542&icon_color=8fd19e&text_color=d8dee9&bg_color=1b2a24&hide_border=true&border_radius=12"
   />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://github-readme-stats-pi-nine-99.vercel.app/api/top-langs/?username=khushiiii-error404&layout=compact&title_color=c792ea&text_color=d8dee9&bg_color=1b2a24&hide_border=true&border_radius=12"
   />
 </div>
 
+
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushiiii-error404&bg_color=1b2a24&color=8fd19e&line=8fd19e&point=f5c542&area=true&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=khushiiii-error404&bg_color=1b2a24&color=8fd19e&line=8fd19e&point=f5c542&area=true&hide_border=true"
+    height="260"
+  />
 </p>
+
 
 
 ---
