@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="totoro1.gif" alt="pixel rain banner" width="100%" />
+  <img src="totoro1.png" alt="pixel rain banner" width="100%" />
 </p>
 
 ---
