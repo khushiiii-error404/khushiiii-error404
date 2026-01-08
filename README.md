@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/github-1b2a24?style=flat&logo=github&logoColor=f5c542" />
   </a>
 
-  <a href="LINKEDIN_PROFILE_LINK_HERE">
+  <a href="https://www.linkedin.com/in/khushi-bhureE">
     <img src="https://img.shields.io/badge/linkedin-1b2a24?style=flat&logo=linkedin&logoColor=c792ea" />
   </a>
 </div>
@@ -56,10 +56,9 @@ LEARN | TRY | REPEAT <3
 
 ---
 
-## <img src="map.png" height="22" style="vertical-align: middle; margin-right:8px;" /> Contribution Activity
-
 <p align="center">
-  <img src="https://ghchart.rshah.org/1b2a24/8fd19e/khushiiii-error404" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushiiii-error404&bg_color=1b2a24&color=8fd19e&line=8fd19e&point=f5c542&area=true&hide_border=true" />
 </p>
+
 
 ---
