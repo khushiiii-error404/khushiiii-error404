@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="totoro.gif" alt="pixel rain banner" />
+  <img src="totoro1.gif" alt="pixel rain banner" />
 </p>
 
 
