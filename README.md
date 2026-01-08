@@ -35,10 +35,10 @@ I believe in slow, consistent growth — progress over perfection.
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&bg_color=0d1117" />
+      <img src="https://github-readme-stats.vercel.app/api?username=khushiiii-error404&show_icons=true&theme=dark&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&bg_color=0d1117" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&title_color=39ff14&text_color=c9d1d9&bg_color=0d1117" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-error404&layout=compact&theme=dark&title_color=39ff14&text_color=c9d1d9&bg_color=0d1117" />
     </td>
   </tr>
 </table>
