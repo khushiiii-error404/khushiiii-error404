@@ -4,34 +4,34 @@
 
 ---
 
-<!-- PROFILE VIEWS + LINKS (LEFT ALIGNED, CLEAN, NO TABLE BORDERS) -->
+<!-- PROFILE VIEWS + LINKS -->
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=khushiiii-error404&label=profile%20views&color=9b5de5&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=khushiiii-error404&label=profile%20views&color=8fd19e&style=flat" />
 
   <a href="https://github.com/khushiiii-error404">
-    <img src="https://img.shields.io/badge/github-9b5de5?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/github-1b2a24?style=flat&logo=github&logoColor=f5c542" />
   </a>
 
   <a href="LINKEDIN_PROFILE_LINK_HERE">
-    <img src="https://img.shields.io/badge/linkedin-9b5de5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-1b2a24?style=flat&logo=linkedin&logoColor=c792ea" />
   </a>
 </div>
 
 ---
 
-## <img src="profile.png" height="24" style="vertical-align: middle;" /> Me
+## <img src="profile.png" height="22" style="vertical-align: middle; margin-right:8px;" /> Me
 
-Hi, I’m **Khushi Bhure**  
-I’m a **Computer Science & Engineering student** studying at  
-**Bangalore Institute of Technology**, India.
+Hi, I’m **Khushi Bhure**.  
+I’m a **Computer Science & Engineering student** at **Bangalore Institute of Technology**, India, interested in the space where logic meets creativity.
+
+I like working on things that let me learn, make mistakes, and grow — from coding and problem-solving to design and experimentation.
 
 LEARN | TRY | REPEAT <3
 
 ---
 
-## <img src="tech.png" height="24" style="vertical-align: middle;" /> Currently Learning
+## <img src="tech.png" height="22" style="vertical-align: middle; margin-right:8px;" /> Currently Learning
 
-<!-- LEFT-ALIGNED, BADGE STYLE (LIKE YOUR REFERENCE IMAGE) -->
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -43,24 +43,23 @@ LEARN | TRY | REPEAT <3
 
 ---
 
-## <img src="stats.png" height="24" style="vertical-align: middle;" /> Stats & Languages Used
+## <img src="stats.png" height="22" style="vertical-align: middle; margin-right:8px;" /> Stats & Languages Used
 
-<!-- NO TABLE LOOK, CLEAN FLOATING CARDS -->
 <div align="center">
   <img
-    src="https://github-readme-stats-pi-nine-99.vercel.app/api?username=khushiiii-error404&show_icons=true&title_color=f5c542&icon_color=8fd19e&text_color=d8dee9&bg_color=1b2a24&hide_border=true&border_radius=18"
+    src="https://github-readme-stats-pi-nine-99.vercel.app/api?username=khushiiii-error404&show_icons=true&title_color=f5c542&icon_color=8fd19e&text_color=d8dee9&bg_color=1b2a24&hide_border=true&border_radius=12"
   />
   <img
-    src="https://github-readme-stats-pi-nine-99.vercel.app/api/top-langs/?username=khushiiii-error404&layout=compact&title_color=c792ea&text_color=d8dee9&bg_color=1b2a24&hide_border=true&border_radius=18"
+    src="https://github-readme-stats-pi-nine-99.vercel.app/api/top-langs/?username=khushiiii-error404&layout=compact&title_color=c792ea&text_color=d8dee9&bg_color=1b2a24&hide_border=true&border_radius=12"
   />
 </div>
 
 ---
 
-## <img src="map.png" height="24" style="vertical-align: middle;" /> Contribution Activity
+## <img src="map.png" height="22" style="vertical-align: middle; margin-right:8px;" /> Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushiiii-error404&bg_color=1b2a24&color=8fd19e&line=eb6f92&point=f5c542&area=true&hide_border=true" />
+  <img src="https://ghchart.rshah.org/1b2a24/8fd19e/khushiiii-error404" />
 </p>
 
 ---
